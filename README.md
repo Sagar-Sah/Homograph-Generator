@@ -1,3 +1,3 @@
 # Homograph-Generator
 Demo:
-https://anonsagar.com/homograph generator
+https://tools.anonsagar.com/homograph%20generator
